@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Login — Painel GON KIT</title>
+  <link rel="stylesheet" href="./css/login.css" />
+</head>
+
+<body>
+  <header>
+    <div class="wrap">
+      <div class="brand">
+        <img src="./image/apple1.png" alt="GON KIT Logo" />
+        <div>
+          <div class="title">GON KIT</div>
+          <div class="subtitle">PREMIUM — GON KIT WhatsApp Sender</div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main>
+    <div class="card">
+      <h1>Login</h1>
+      <label>Usuário</label>
+      <input id="login-username" type="text" placeholder="usuario" />
+      <label>Senha</label>
+      <input id="login-password" type="password" placeholder="••••••" />
+      <label id="otp-label" style="display:none">Código OTP</label>
+      <input id="login-otp" type="text" inputmode="numeric" pattern="[0-9]*" placeholder="000000"
+        style="display:none" />
+      <div class="actions">
+        <button class="btn-primary" id="login-btn">Entrar</button>
+        <button class="btn" id="logout-btn">Limpar sessão</button>
+      </div>
+      <div id="login-status" class="status"></div>
+      <div class="divider"></div>
+      <div class="muted">GON KIT Powered Inc — <a class="link" href="https://t.me/GON_KiT" target="_blank"
+          rel="noopener">@GON_KiTSuport</a></div>
+    </div>
+  </main>
+  <script src="./js/common_auth.js" defer></script>
+  <script src="./js/login.js" defer></script>
+</body>
+
+</html>

@@ -1,0 +1,127 @@
+{
+  "instances": [
+    {
+      "user_id": 5,
+      "instance_name": "wa-rhz-5",
+      "instance_token": "7262a4ad-df96-4936-acc6-0cfe9cf5b482",
+      "provider": "uazapi",
+      "connected": null,
+      "status": null,
+      "created_at": "2025-10-29T23:31:06.117Z",
+      "updated_at": "2025-10-30T00:10:53.429Z",
+      "meta": {
+        "created_raw_keys": [
+          "connected",
+          "info",
+          "instance",
+          "loggedIn",
+          "name",
+          "response",
+          "token"
+        ]
+      }
+    },
+    {
+      "user_id": 3,
+      "instance_name": "admin",
+      "instance_token": "15ad7114-659c-4f32-9a2e-093407af7515",
+      "provider": "uazapi",
+      "connected": true,
+      "status": {
+        "connected": true,
+        "loggedIn": false,
+        "paircode": null,
+        "qrcode": null,
+        "deviceName": null,
+        "phoneNumber": null,
+        "connectedAt": null
+      },
+      "created_at": "2025-10-30T00:51:57.634Z",
+      "updated_at": "2025-11-14T05:39:30.226Z",
+      "meta": {
+        "created_raw_keys": [
+          "connected",
+          "info",
+          "instance",
+          "loggedIn",
+          "name",
+          "response",
+          "token"
+        ]
+      }
+    },
+    {
+      "user_id": 6,
+      "instance_name": "rhz1",
+      "instance_token": "e22eefa3-64a7-4346-a8a6-338c17404372",
+      "provider": "uazapi",
+      "connected": null,
+      "status": null,
+      "created_at": "2025-10-30T04:40:57.140Z",
+      "updated_at": "2025-10-30T20:13:34.184Z",
+      "meta": {
+        "created_raw_keys": [
+          "connected",
+          "info",
+          "instance",
+          "loggedIn",
+          "name",
+          "response",
+          "token"
+        ]
+      }
+    },
+    {
+      "user_id": 7,
+      "instance_name": "bdunlocker",
+      "instance_token": "3ee4a227-c18a-4a16-8438-1540fe6b78ef",
+      "provider": "uazapi",
+      "connected": null,
+      "status": null,
+      "created_at": "2025-10-30T20:22:59.615Z",
+      "updated_at": "2025-10-30T20:23:07.177Z",
+      "meta": null
+    },
+    {
+      "user_id": 8,
+      "instance_name": "rhz",
+      "instance_token": "9ea4d45a-1e9d-4da3-9aec-7a340224cfed",
+      "provider": "uazapi",
+      "connected": null,
+      "status": null,
+      "created_at": "2025-10-31T17:03:11.620Z",
+      "updated_at": "2025-10-31T17:03:23.661Z",
+      "meta": null
+    },
+    {
+      "user_id": 12,
+      "instance_name": "wer",
+      "instance_token": "dfca0ee8-22d6-4cd5-bb87-35f452ce6032",
+      "provider": "uazapi",
+      "connected": null,
+      "status": null,
+      "created_at": "2025-11-01T04:53:38.774Z",
+      "updated_at": "2025-11-01T04:53:43.264Z",
+      "meta": null
+    },
+    {
+      "user_id": 16,
+      "instance_name": "rhz",
+      "instance_token": "cab00daa-db09-424b-a285-83ec693672a0",
+      "provider": "uazapi",
+      "connected": true,
+      "status": {
+        "connected": true,
+        "loggedIn": false,
+        "paircode": null,
+        "qrcode": null,
+        "deviceName": null,
+        "phoneNumber": null,
+        "connectedAt": null
+      },
+      "created_at": "2025-11-04T20:44:39.865Z",
+      "updated_at": "2025-11-05T00:06:36.132Z",
+      "meta": null
+    }
+  ]
+}

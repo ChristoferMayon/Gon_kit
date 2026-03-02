@@ -1,0 +1,25 @@
+{
+  "instances": [
+    {
+      "id": 1,
+      "user_id": 3,
+      "instance_id": "admin",
+      "token": "15ad7114-659c-4f32-9a2e-093407af7515",
+      "device_name": null,
+      "status": "connected",
+      "connected_at": "2025-11-14T05:39:30.228Z",
+      "updated_at": "2025-11-14T05:39:30.230Z"
+    },
+    {
+      "id": 2,
+      "user_id": 16,
+      "instance_id": "rhz",
+      "token": "cab00daa-db09-424b-a285-83ec693672a0",
+      "device_name": null,
+      "status": "connected",
+      "connected_at": "2025-11-05T00:06:36.134Z",
+      "updated_at": "2025-11-05T00:06:36.135Z"
+    }
+  ],
+  "seq": 2
+}
